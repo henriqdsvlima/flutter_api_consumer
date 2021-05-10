@@ -1,6 +1,6 @@
-# flutter_api_consumer
+# bytebank
 
-A new Flutter project.
+A new Bytebank project.
 
 ## Getting Started
 
