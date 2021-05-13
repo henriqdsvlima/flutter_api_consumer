@@ -1,6 +1,6 @@
-# bytebank
+# shop
 
-A new Bytebank project.
+A new Flutter project.
 
 ## Getting Started
 
